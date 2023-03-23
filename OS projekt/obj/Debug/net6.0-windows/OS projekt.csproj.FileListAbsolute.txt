@@ -1,0 +1,17 @@
+C:\Users\petra\source\repos\OS projekt\OS projekt\bin\Debug\net6.0-windows\OS projekt.exe
+C:\Users\petra\source\repos\OS projekt\OS projekt\bin\Debug\net6.0-windows\OS projekt.deps.json
+C:\Users\petra\source\repos\OS projekt\OS projekt\bin\Debug\net6.0-windows\OS projekt.runtimeconfig.json
+C:\Users\petra\source\repos\OS projekt\OS projekt\bin\Debug\net6.0-windows\OS projekt.dll
+C:\Users\petra\source\repos\OS projekt\OS projekt\bin\Debug\net6.0-windows\OS projekt.pdb
+C:\Users\petra\source\repos\OS projekt\OS projekt\obj\Debug\net6.0-windows\OS projekt.csproj.AssemblyReference.cache
+C:\Users\petra\source\repos\OS projekt\OS projekt\obj\Debug\net6.0-windows\OS_projekt.CryptographyForm.resources
+C:\Users\petra\source\repos\OS projekt\OS projekt\obj\Debug\net6.0-windows\OS projekt.csproj.GenerateResource.cache
+C:\Users\petra\source\repos\OS projekt\OS projekt\obj\Debug\net6.0-windows\OS projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petra\source\repos\OS projekt\OS projekt\obj\Debug\net6.0-windows\OS projekt.AssemblyInfoInputs.cache
+C:\Users\petra\source\repos\OS projekt\OS projekt\obj\Debug\net6.0-windows\OS projekt.AssemblyInfo.cs
+C:\Users\petra\source\repos\OS projekt\OS projekt\obj\Debug\net6.0-windows\OS projekt.csproj.CoreCompileInputs.cache
+C:\Users\petra\source\repos\OS projekt\OS projekt\obj\Debug\net6.0-windows\OS projekt.dll
+C:\Users\petra\source\repos\OS projekt\OS projekt\obj\Debug\net6.0-windows\refint\OS projekt.dll
+C:\Users\petra\source\repos\OS projekt\OS projekt\obj\Debug\net6.0-windows\OS projekt.pdb
+C:\Users\petra\source\repos\OS projekt\OS projekt\obj\Debug\net6.0-windows\OS projekt.genruntimeconfig.cache
+C:\Users\petra\source\repos\OS projekt\OS projekt\obj\Debug\net6.0-windows\ref\OS projekt.dll
